@@ -1,7 +1,5 @@
 package testBase;
 
-
-
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
@@ -27,8 +25,6 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
-
-
 public class BaseClass {
 	public static WebDriver driver;
 	public Logger logger;
@@ -44,9 +40,6 @@ public class BaseClass {
 		FileReader file = new FileReader("./src//test//resources//config.properties"); // can use file input stream class also
 		p=new  Properties();
 		p.load(file);
-		
-		
-		
 		logger=LogManager.getLogger(this.getClass()); //log4j2 snippet
 		
 		if(p.getProperty("execution_env").equalsIgnoreCase("remote"))
@@ -65,7 +58,7 @@ public class BaseClass {
 			}
 			else if (os.equalsIgnoreCase("mac"))
 			{
-				capabilities.setPlatform(Platform.MAC);
+				capabilities.setPlatform(Platform.MAC); 
 			}
 			else
 			{
