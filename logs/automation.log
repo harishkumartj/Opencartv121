@@ -1,45 +1,16 @@
-16:03:16.262 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked on my account link*****
-16:03:16.994 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked on register link*****
-16:03:18.870 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Test Case completed*****
-16:03:26.143 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
-16:03:28.583 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest *****
-16:06:11.636 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
-16:06:14.045 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest *****
-17:23:57.325 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001 Account registraton*****
-17:23:57.986 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked on my account link*****
-17:23:58.679 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked on register link*****
-17:24:00.400 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Test Case completed*****
-17:24:07.539 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
-17:24:09.965 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest *****
-16:53:32.500 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001 Account registraton*****
-16:53:43.063 [main] ERROR testCases.TC001_AccountRegistrationTest - ***Test Failed***
-16:53:43.063 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs....
-16:53:50.104 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
-16:55:04.854 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001 Account registraton*****
-16:55:14.934 [main] ERROR testCases.TC001_AccountRegistrationTest - ***Test Failed***
-16:55:14.934 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs....
-16:55:21.176 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
-17:11:54.195 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001 Account registraton*****
-17:12:03.830 [main] ERROR testCases.TC001_AccountRegistrationTest - ***Test Failed***
-17:12:03.830 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs....
-15:46:39.776 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Eclipse Workspace\Opencartv121\master.xml"
-15:46:53.729 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001 Account registraton*****
-15:46:54.681 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked on my account link*****
-15:46:55.401 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked on register link*****
-15:46:57.555 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Test Case completed*****
-15:47:04.281 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
-15:47:06.395 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest *****
-16:12:03.724 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Eclipse Workspace\Opencartv121\master.xml"
-16:12:11.578 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001 Account registraton*****
-16:12:12.384 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked on my account link*****
-16:12:13.123 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked on register link*****
-16:12:14.998 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Test Case completed*****
-16:12:21.022 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
-16:12:23.277 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest *****
-16:20:48.857 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Eclipse Workspace\Opencartv121\master.xml"
-16:20:55.887 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001 Account registraton*****
-16:20:56.145 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked on my account link*****
-16:20:56.885 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked on register link*****
-16:20:58.664 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Test Case completed*****
-16:21:05.122 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
-16:21:07.491 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest *****
+11:08:10.379 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+11:08:11.955 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest *****
+11:50:54.949 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\F\Eclipse Workspace\Opencartv121\master.xml"
+11:50:57.586 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001 Account registraton*****
+11:50:57.693 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked on my account link*****
+11:50:57.947 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked on register link*****
+11:50:59.464 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Test Case completed*****
+11:51:01.132 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+11:51:02.379 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest *****
+11:56:39.070 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\F\Eclipse Workspace\Opencartv121\master.xml"
+11:56:41.750 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001 Account registraton*****
+11:56:41.853 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked on my account link*****
+11:56:42.854 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked on register link*****
+11:56:44.027 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Test Case completed*****
+11:56:45.592 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+11:56:46.671 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest *****
